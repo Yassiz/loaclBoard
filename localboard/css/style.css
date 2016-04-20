@@ -1,0 +1,43 @@
+body {
+    margin-bottom:40px;
+}
+
+.no-rad {
+    border-radius:0;
+}
+
+.margin-top-10 {
+    margin-top:10px;
+}
+
+.margin-top-40 {
+    margin-top:40px;
+}
+
+.margin-top-20 {
+    margin-top:20px;
+}
+
+.margin-right-5 {
+    margin-right:5px;
+}
+
+.txt-center {
+    text-align:center;
+}
+.welcome {
+	margin-top: 10px;
+	color: #fff;
+	padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    display:inline-block;
+}
+#lat, #lng {
+    display: none;
+}
